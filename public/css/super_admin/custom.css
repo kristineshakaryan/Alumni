@@ -1,0 +1,64 @@
+.super_admin_content{
+    width: 500px;
+    margin: auto;
+}
+.dataTables_filter,.dataTables_paginate {
+    float: right;
+}
+.img_for_table{
+    border-radius: 50px;
+    object-fit: cover;
+    width: 80px;
+    height: 80px;
+}
+.img_for_details_page{
+    width:150px;
+    height:150px;
+    padding:10px;
+    border:2px solid #c8ced3;
+}
+.row_for_details:hover{
+    cursor:pointer
+}
+.form_for_send_email{
+    border:2px solid #c8ced3;
+    box-shadow:2px 1px 17px 10px;
+}
+.img_for_modal{
+    width: 120px;
+    height: 120px;
+}
+.fr-wrapper>div a{
+    display: none !important;
+}
+.super_admin_survey{
+    width:500px;
+    float:left;
+}
+.super_admin_survey_useful_tools{
+    width:500px;
+    float:right;
+}
+.div_for_next_finish_btn{
+    display:none;
+}
+.class_error_input{
+    border:1px solid red!important;
+}
+.for_down_icon{
+    transition:all 1s;
+}
+.for_down_icon:hover{
+    cursor:pointer;
+    opacity:0.6;
+}
+.pac-container {
+    z-index: 1051 !important;
+}
+.class_for_display_none{
+    display:none;
+}
+.img_for_some_icon{
+    height:100px;
+    width:100px;
+}
